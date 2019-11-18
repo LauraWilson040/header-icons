@@ -26,6 +26,10 @@ h1 {
   display: block;
 }
 
+figure {
+  display: flex;
+}
+
 nav ul li {
   background-color: #d05c2e;
   border-color: #a63f38;
@@ -38,7 +42,7 @@ nav ul li {
   display: inline-block;
 }
 
-a: hover{
+a:hover {
   background-color: #a63f38;
   color: #fff;
   list-style-type: none;
