@@ -8,19 +8,14 @@ html {
   box-sizing: inherit;
 }
 
-html {
-  background-color: #fff;
-  padding: 0;
-  margin: 0;
-}
-
 header {
   background-color: #d05c2e;
 
 }
 
 body {
-
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
@@ -30,8 +25,13 @@ h1 {
   display: block;
 }
 
+img {
+  padding: .5em 0;
+}
+
 nav {
   display: flex;
+  padding: .4rem, 0;
 }
 
 nav ul li {
