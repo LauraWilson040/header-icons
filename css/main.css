@@ -21,10 +21,7 @@ body {
 h1 {
   font-size: 2rem;
   color: #fff;
-  padding: 0;
-
-  text-align: center;
-  display: block;
+  padding: .5em 0;
 }
 
 img {
@@ -35,10 +32,8 @@ img {
 
 nav {
   background-color: #d05c2e;
-  border-color: #a63f38;
   font-size: 1.125rem;
   color: #fff;
-  border: 1px;
 
   list-style-type: none;
   text-decoration: none;
@@ -53,7 +48,9 @@ ul {
 }
 
 li {
-  width: 40px;
+  width: 33.33px;
+  border: 1px solid #a63f38;
+
   align-items: center;
   justify-content: space-between;
 }
