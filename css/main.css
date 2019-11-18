@@ -66,13 +66,15 @@ li {
 a {
   display: block;
   text-align: center;
-}
 
-a:hover {
-  background-color: #a63f38;
+  background-color: #d05c2e;
   border-color: #a63f38;
   color: #fff;
 
   list-style-type: none;
   text-decoration: none;
+}
+
+a:hover {
+  background-color: #a63f38;
 }
