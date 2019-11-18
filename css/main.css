@@ -28,6 +28,8 @@ h1 {
 
 nav ul li {
   background-color: #d05c2e;
+  border-color: #a63f38;
+  border: 1px;
   font-size: 1.125rem;
   color: #fff;
   list-style-type: none;
