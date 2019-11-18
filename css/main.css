@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
+  background-color: #fff;
   line-height: 1.5;
 }
 
@@ -10,28 +11,31 @@ html {
 
 header {
   background-color: #d05c2e;
+  padding: 0;
 
 }
 
 body {
   margin: 0;
-  padding: 0;
 }
 
 h1 {
   font-size: 2rem;
   color: #fff;
+  padding: 0;
+
   text-align: center;
   display: block;
 }
 
 img {
-  padding: .5em 0;
+  padding: .5em;
+  width: 40%;
 }
 
 nav {
   display: flex;
-  padding: .4rem, 0;
+  padding: .4rem;
 }
 
 nav ul li {
